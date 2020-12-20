@@ -20,7 +20,7 @@ class WeatherRequest () {
                 //создаем экземпляр класса URL, передаем в него наш адрес
 
                 val url =
-                    URL("https://api.openweathermap.org/data/2.5/weather?$httpState&appid=2203150c7ab2fc9af08e38d3dc52a2ff")
+                    URL("https://api.openweathermap.org/data/2.5/weather?$httpState&appid=YourOpenWeatherMapToken")
                 //создаем экземпляр класса HttpsURLConnection
                 val httpsURLConnection = url.openConnection() as HttpsURLConnection
                 //указываем какой HTTP метод мы будем использовать
