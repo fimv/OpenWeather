@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="enter_name">Enter City</string>
+    <string name="enter_country">Enter Country</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search contact</string>
+    <string name="add_contact">Add contact</string>
+    <string name="enter_city">enter city</string>
+
+</resources>
